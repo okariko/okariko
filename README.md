@@ -1,6 +1,6 @@
 # Hi there, my name is Okariko!👋
 
- 	| Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text | 
