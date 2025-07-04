@@ -19,7 +19,7 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 - HANDS! (courtesy of my PARENTS)
 - HEADPHONES! (courtesy of APPLE)
 <br> <sub><sup>most importantly: ...</sub></sup>
-- my  <h3>***haret***</h3> <sub><sup>(courtesy of ... loev)</sup></sub>
+- my  <h3>***h earrt***</h3> <sub><sup>(courtesy of ... loev)</sup></sub>
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣶⣧⣰⣿⣿⠇⣼⣿⢻⣶⢴⠶⢦⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀
