@@ -1,12 +1,9 @@
 # Hi there, my name is Okariko!👋
 
-```
-{
-  "firstName": "Ramazan",
-  "lastName": "Kozhabayev",
-  "age": 18
-}
-``` 
+ 	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
 
 ## Some work-related info-stuff about me!
 I code! Not sure where and with what exactly. I haven't chosen it, yet——but currently experimenting with the Three Basics (HTML5, CSS3, JS)!
