@@ -18,7 +18,7 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 - EYES!
 - HANDS!
 - HEADPHONES!
-- <sub><sup>most importantly...</sub></sup>
+<br> <sub><sup>most importantly: ...</sub></sup>
 - my     *haret*
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
