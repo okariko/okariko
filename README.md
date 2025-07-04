@@ -9,7 +9,7 @@
 
 ## Some work-related info-stuff about me!
 I code! Not sure where and with what exactly. I haven't chosen it, yet——but currently experimenting with the Three Basics (HTML5, CSS3, JS)!
-... That depends if you consider them to be *real* languages, of course!
+... ~That depends if you consider them to be *real* languages, of course!~
 - ### Things currently underway:
 - Continue learning to code!
 - Perhaps make my first *real* website, even if it's static.
