@@ -1,4 +1,4 @@
-## Hi there, my name is #Ramazan!👋
+## Hi there, my name is Ramazan Kozhabayev!👋
 
 <!--
 **okariko/okariko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
