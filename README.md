@@ -63,6 +63,9 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 - huh?
 - THATS IT THIS LIST IS DONE GOODBYE!
 
+### Contacts (listed from most active to least):
+1. [Discord!](
+
 ```
 blargh!
 ⣏⠭⣙⠱⣊⠖⡱⢊⠖⡱⢊⠖⡱⢊⠖⡱⢊⠖⡱⢊⠖⡱⢊⠖⡱⢊⠖⡱⢊⠖⡱⢊⠖⡱⢊⠖⣩⠒⡥⢓⡜⢢⠓⡜⢢⠓⡜⢢⠓⡜⢢⠓⡜⢢⠓⡜⢢⠓⡜⢢⠓⡜⢢⠓⡜⢢⠓⡜⢢⠣⣍⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⡑⢎⠲⢥
