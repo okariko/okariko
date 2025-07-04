@@ -11,15 +11,15 @@
 I code! Not sure where and with what exactly. I haven't chosen it, yet——but currently experimenting with the Three Basics (HTML5, CSS3, JS)! <div>
 ... <sub><sup>That depends if you consider them to be *real* languages, of course!</sup></sub>
 ### Hardware I use:
-- CHAIR!
-- TABLE!
-- LAPTOP!
-- MOUSE!
-- EYES!
-- HANDS!
-- HEADPHONES!
+- CHAIR! (courtesy of IKEA)
+- TABLE! (courtesy of IKEA)
+- LAPTOP! (courtesy of ASUS)
+- MOUSE! (courtesy of ... idfk)
+- EYES! (courtesy of my PARENTS)
+- HANDS! (courtesy of my PARENTS)
+- HEADPHONES! (courtesy of APPLE)
 <br> <sub><sup>most importantly: ...</sub></sup>
-- my  <h3>***haret***</h3>
+- my  <h3>***haret***</h3> <sub><sup>(courtesy of ... loev)</sup></sub>
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣶⣧⣰⣿⣿⠇⣼⣿⢻⣶⢴⠶⢦⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀
