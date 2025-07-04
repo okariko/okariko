@@ -1,5 +1,7 @@
 ## Hi there, my name is Ramazan Kozhabayev!👋
 
+#I am an amateur beginner coder (in general, not specified in what, yet)!
+
 <!--
 **okariko/okariko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
