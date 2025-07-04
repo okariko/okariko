@@ -47,9 +47,9 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣹⣽⡞⡃⣾⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⣛⡛⠛⡋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-### Software I use:
+### Software/Resources I use:
 - Visual Studio Code!
-- 
+- W3Schools! [title](https://www.w3schools.com)
 ### Things currently underway:
 - Continue learning to code!
 - Perhaps make my first *real* website, even if it's static.
