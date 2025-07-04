@@ -14,6 +14,8 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 - Continue learning to code!
 - Perhaps make my first *real* website, even if it's static.
 
+```
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠟⠹⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣿⡟⠀⠀⠘⢿⣿⣿⣶⣶⣄⠀⠀⠀⠀
@@ -30,6 +32,7 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⠿⢿⣿⣷⡄⠀⠀⢀⣾⣿⡿⠏⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⣿⣿⡀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀
+```
 <!--
 **okariko/okariko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
