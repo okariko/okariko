@@ -19,8 +19,7 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 - HANDS!
 - HEADPHONES!
 <br> <sub><sup>most importantly: ...</sub></sup>
-<span style="color:blue">some *blue* text</span>
-- my     *haret*
+- my    # ***haret***
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣶⣧⣰⣿⣿⠇⣼⣿⢻⣶⢴⠶⢦⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀
