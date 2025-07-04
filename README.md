@@ -19,7 +19,7 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 - HANDS!
 - HEADPHONES!
 <br> <sub><sup>most importantly: ...</sub></sup>
-- my    <h1>***haret***</h1>
+- my    <h3>***haret***</h3>
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢀⣶⣧⣰⣿⣿⠇⣼⣿⢻⣶⢴⠶⢦⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀
