@@ -48,11 +48,19 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⣛⡛⠛⡋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 ### Software/Resources I use:
-- Visual Studio Code!
-- W3Schools! [title](https://www.w3schools.com)
+- [Visual Studio Code!](https://code.visualstudio.com)
+- [W3Schools!](https://www.w3schools.com)
+- [Mozilla Dev Network!](https://developer.mozilla.org)
+- [Factoria F5!](https://factoriaf5.org)
 ### Things currently underway:
 - Continue learning to code!
 - Perhaps make my first *real* website, even if it's static.
+- idk what else
+- i just begun
+- what
+- what do you mean thats not enough?
+- huh?
+- THATS IT THIS LIST IS DONE GOODBYE!
 
 ```
 blargh!
