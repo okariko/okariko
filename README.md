@@ -47,6 +47,7 @@ I code! Not sure where and with what exactly. I haven't chosen it, yet——but 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣹⣽⡞⡃⣾⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⣛⡛⠛⡋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+<sub><sup>ERROR 404: brain not found! NOT ABLE TO LIST! ERROR ERROR!</sup></sub>
 ### Software/Resources I use:
 - [Visual Studio Code!](https://code.visualstudio.com)
 - [W3Schools!](https://www.w3schools.com)
